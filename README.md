@@ -1,10 +1,10 @@
-# 🎬 Netflix Movie Recommendation System
+# Netflix Movie Recommendation System
 
 A Machine Learning based **Content-Based Movie Recommendation System** that recommends the **Top 5 similar movies** based on movie metadata such as genres, keywords, cast, crew, and overview.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project uses **Content-Based Filtering** to recommend movies similar to the movie selected by the user. The recommendation is generated using **Cosine Similarity** on processed movie features.
 
@@ -12,7 +12,7 @@ The project is built using Python and popular data science libraries like Pandas
 
 ---
 
-## 🚀 Features
+## Features
 
 - Recommend Top 5 similar movies
 - Content-Based Recommendation System
@@ -23,7 +23,7 @@ The project is built using Python and popular data science libraries like Pandas
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The project uses the TMDB 5000 Movie Dataset.
 
@@ -33,7 +33,7 @@ Files used:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -44,7 +44,7 @@ Files used:
 
 ---
 
-## ⚙️ Project Workflow
+## Project Workflow
 
 1. Load movie and credits datasets.
 2. Merge both datasets.
@@ -57,7 +57,7 @@ Files used:
 
 ---
 
-## 📷 Example
+## Example
 
 ### Input
 
@@ -77,21 +77,21 @@ Star Trek Into Darkness
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Netflix_Movie_Recommendation_System/
-│
-├── Netflix Movie Recommendation System.ipynb
-├── tmdb_5000_movies.csv
-├── tmdb_5000_credits.csv
-├── .gitignore
-└── README.md
+
+-Netflix Movie Recommendation System.ipynb
+-tmdb_5000_movies.csv
+-tmdb_5000_credits.csv
+-.gitignore
+-README.md
 ```
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ### Clone the Repository
 
@@ -121,7 +121,7 @@ Run all the cells and test recommendations.
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Build a Streamlit Web Application
 - Add Movie Posters using TMDB API
@@ -132,7 +132,7 @@ Run all the cells and test recommendations.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Abdul Samad**
 
